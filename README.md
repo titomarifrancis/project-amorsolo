@@ -9,3 +9,4 @@
        src="https://scan.coverity.com/projects/22714/badge.svg"/>
 </a>
 
+https://travis-ci.com/titomarifrancis/project-amorsolo.svg?token=2McMYVofsmsVSsn6K8PH&branch=master
