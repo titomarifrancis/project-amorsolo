@@ -8,5 +8,5 @@
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/22714/badge.svg"/>
 </a>
-<br/>
+
 [![Build Status](https://travis-ci.com/titomarifrancis/project-amorsolo.svg?token=2McMYVofsmsVSsn6K8PH&branch=master)](https://travis-ci.com/titomarifrancis/project-amorsolo)
