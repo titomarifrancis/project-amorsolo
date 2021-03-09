@@ -4,9 +4,9 @@
 <br/>
 <a href="https://www.codacy.com/manual/titomarifrancis/project-amorsolo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=titomarifrancis/project-amorsolo&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/c72041093afc4184a71386ec04077e59"/></a>
 <br/>
-<a href="https://scan.coverity.com/projects/project-amorsolo">
+<a href="https://scan.coverity.com/projects/titomarifrancis-project-amorsolo">
   <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/22714/badge.svg"/>
+       src="https://scan.coverity.com/projects/22715/badge.svg"/>
 </a>
 
 [![Build Status](https://travis-ci.com/titomarifrancis/project-amorsolo.svg?token=2McMYVofsmsVSsn6K8PH&branch=master)](https://travis-ci.com/titomarifrancis/project-amorsolo)
